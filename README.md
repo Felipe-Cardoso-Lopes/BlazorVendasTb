@@ -111,4 +111,3 @@ Siga os passos abaixo para configurar e executar o projeto `BlazorVendasTB` em s
     ```bash
     dotnet run
     ```
-    A aplicação será iniciada e estará acessível no endereço (`https://localhost:XXXX` ou `http://localhost:YYYY`) indicado no terminal.
